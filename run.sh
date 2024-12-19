@@ -1,5 +1,5 @@
 MODEL=deeplabv3bga_resnet101
-DATA_ROOT='/content/drive/MyDrive/VOCdevkit'
+DATA_ROOT='/content/drive/MyDrive/VOCdevkit/VOC2012'
 DATASET=voc
 TASK=15-1
 EPOCH=20
